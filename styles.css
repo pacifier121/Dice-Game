@@ -1,0 +1,41 @@
+h1{
+  margin: 0 0 4rem;
+  font-size: 9rem;
+  font-family: 'Lobster', cursive;
+  color: #ffcfdf;
+}
+
+h2{
+  font-family: 'Gochi Hand', cursive;
+  color:#ff9999;
+  display: inline;
+  margin: 0 5.2rem;
+  align-self: center;
+}
+
+h4{
+    color: #aaaaaa;
+    font-family: 'Gochi Hand', cursive;
+    width:20rem;
+    margin:5rem auto;
+}
+
+body{
+  margin:0;
+  padding: 0;
+  background-color: #3e4149;
+}
+
+img{
+  margin: 0 10px;
+}
+
+.main{
+  text-align: center;
+  align-items: center;
+}
+
+.container{
+  margin-bottom: 1rem;
+  display: inline;
+}
